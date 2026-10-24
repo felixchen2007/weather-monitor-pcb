@@ -2,8 +2,6 @@
 
 An ESP32 weather monitor with temperature, humidity, and solar power readings.
 
-[Portfolio overview](https://felixchen2007.github.io/projects/weather-monitor/)
-
 ![3D render of Felix Chen's ESP32 weather monitor PCB](images/weather-monitor-pcb.png)
 
 ## Project details
